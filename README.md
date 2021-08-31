@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/tip-calculator-sr5_FmoXl)
+- Live Site URL: [Here](https://tscorpz.github.io/tip-calculator-app-main/index.html)
 
 ## My process
 
